@@ -1,9 +1,9 @@
-/* =============================================
+/*
 My Customizations
 Custom fonts: Josefin Sans + EB Garamond
 Color scheme: dark background with nature greens and earthy browns
 Custom margins, padding, layout: CSS Grid, custom spacing, max-width centering
-   ============================================= */
+*/
 
 :root {
   --bg:          #0e1208;

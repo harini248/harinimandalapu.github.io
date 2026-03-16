@@ -236,19 +236,19 @@ a   { color: inherit; }
   border-top: 1px solid var(--border);
 }
 
+.hobby-img-wrap {
+  width: 50%;
+}
+
 .hobby-img {
-  width: 60%;
+  width: 100%;
   height: auto;
-  object-fit: cover;
-  border: 1px solid var(--border);
   display: block;
-  margin: 0 auto;
+  border: 1px solid var(--border);
 }
 
 .hobby-text {
-  max-width: 700px;
-  width: 100%;
-  margin: 0 auto;
+  width: 50%;
 }
 
 .inspirations {
